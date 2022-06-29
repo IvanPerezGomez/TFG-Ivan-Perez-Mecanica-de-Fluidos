@@ -2,3 +2,12 @@ matplotlib
 sympy
 tabulate
 ipynb
+HTML
+openpyxl
+widgets
+interactive
+Symbol
+Eq
+solve
+pi
+sqrt
