@@ -1,0 +1,8 @@
+ESTOS SON LOS IGNIFICADOS DE LAS ABREBIATURAS DE LAS CARPETAS:
+
+-CP: Coleccion de problemas.
+-PE: Problemas de examen.
+-CP_res_inter: Coleccion de problemas resueltos de manera interactiva.
+-CP_res_pas: Coleccion de problemas resueltos paso a paso.
+-E_paso: Ejercicios de examen resueltos paso a paso.
+-EI_res_fin: Ejercicios interactivos con resultado final.
